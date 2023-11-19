@@ -35,3 +35,12 @@ img {
   border: none;
   margin-left: 5px;
 }
+
+/* Media query for mobile devices */
+@media screen and (max-width: 767px) {
+  #catImage,
+  img {
+    max-height: 400px; /* Adjust the maximum height for mobile devices */
+    max-width: 500px;
+  }
+}
