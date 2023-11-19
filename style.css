@@ -1,0 +1,31 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+#catImage {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+.loveBtn {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  margin-right: 5px;
+}
+
+.nopeBtn {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  margin-left: 5px;
+}
